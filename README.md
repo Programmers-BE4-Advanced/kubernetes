@@ -5,3 +5,4 @@
 - 0003 : `kubectl pod`
 - 0004 : `kubectl` - `yaml` 파일 구성
 - 0005 : `Multi Container Pod` - `Sidecar`, `Ambassador`, `Adapter`
+- 0006 : `Deployment` & `ReplicaSet`
