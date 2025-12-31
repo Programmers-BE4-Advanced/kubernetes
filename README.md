@@ -6,3 +6,4 @@
 - 0004 : `kubectl` - `yaml` 파일 구성
 - 0005 : `Multi Container Pod` - `Sidecar`, `Ambassador`, `Adapter`
 - 0006 : `Deployment` & `ReplicaSet`
+- 0007 : `Scaling` (Horizontal or Vertical) 
