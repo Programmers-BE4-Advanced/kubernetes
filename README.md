@@ -7,3 +7,4 @@
 - 0005 : `Multi Container Pod` - `Sidecar`, `Ambassador`, `Adapter`
 - 0006 : `Deployment` & `ReplicaSet`
 - 0007 : `Scaling` (Horizontal or Vertical) 
+- 0008 : `Rolling Update` - `rollout` 명령어
