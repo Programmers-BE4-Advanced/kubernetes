@@ -8,3 +8,4 @@
 - 0006 : `Deployment` & `ReplicaSet`
 - 0007 : `Scaling` (Horizontal or Vertical) 
 - 0008 : `Rolling Update` - `rollout` 명령어
+- 0009 : `ClusterIP Service` - 고정된 접점 제공, 로드 밸런싱, 서비스 디스커버리
