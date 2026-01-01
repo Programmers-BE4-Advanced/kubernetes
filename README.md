@@ -9,3 +9,4 @@
 - 0007 : `Scaling` (Horizontal or Vertical) 
 - 0008 : `Rolling Update` - `rollout` 명령어
 - 0009 : `ClusterIP Service` - 고정된 접점 제공, 로드 밸런싱, 서비스 디스커버리
+- 0010 : `NodePort Service` - 외부 접근 허용(30000 - 32767), ClusterIP 기능 포함
