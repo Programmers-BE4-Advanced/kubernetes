@@ -12,3 +12,4 @@
 - 0010 : `NodePort Service` - 외부 접근 허용(30000 - 32767), ClusterIP 기능 포함
 - 0011 : `LoadBalancer Service` - 외부 로드밸런서 프로비저닝, 전용 공인 IP 주소 할당, 표준 포트 사용 가
 - 0012 : `ConfigMap` - 설정과 코드 분리, 환경별 설정, 중앙 관리
+- 0013 : `Secret` - 민감 정보(ex. 비밀번호, API 키), Base64 인코딩 (암호화 X)
