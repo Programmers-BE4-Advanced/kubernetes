@@ -11,3 +11,4 @@
 - 0009 : `ClusterIP Service` - 고정된 접점 제공, 로드 밸런싱, 서비스 디스커버리
 - 0010 : `NodePort Service` - 외부 접근 허용(30000 - 32767), ClusterIP 기능 포함
 - 0011 : `LoadBalancer Service` - 외부 로드밸런서 프로비저닝, 전용 공인 IP 주소 할당, 표준 포트 사용 가
+- 0012 : `ConfigMap` - 설정과 코드 분리, 환경별 설정, 중앙 관리
